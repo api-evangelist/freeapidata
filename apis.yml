@@ -8,6 +8,10 @@ created: '2026-09-20'
 modified: '2026-09-20'
 specificationVersion: '0.21'
 tags:
+  - API Directory
+  - API Discovery
+  - Developer Tools
+tags_raw:
   - api directory
   - api discovery
   - developer tools
@@ -19,6 +23,10 @@ apis:
     humanURL: https://freeapidata.com
     baseURL: https://freeapidata.com
     tags:
+      - API Directory
+      - API Discovery
+      - Developer Tools
+    tags_raw:
       - api directory
       - api discovery
       - developer tools
