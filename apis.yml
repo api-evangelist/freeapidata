@@ -5,7 +5,7 @@ description: >-
   apis.json, sitemap) but no consumable data API.
 url: https://raw.githubusercontent.com/api-evangelist/freeapidata/refs/heads/main/apis.yml
 created: '2026-09-20'
-modified: '2026-09-20'
+modified: '2026-10-06'
 specificationVersion: '0.21'
 tags:
   - API Directory
@@ -43,3 +43,6 @@ generated:
   model: claude-opus-4-8
   confidence: 90
   at: '2026-09-20T21:51:53.646Z'
+common:
+  - url: https://freeapidata.com/categories/news
+    type: Blog
